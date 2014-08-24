@@ -1,0 +1,366 @@
+Tidy Data Code Book
+
+ [1] "activityGroup"
+
+     Summarised Activity Group:
+     “WALKING”
+     “WALKING_UPSTAIRS”
+     “WALKING_DOWNSTAIRS”
+     “SITTING”
+     “STANDING”
+     “LAYING”
+                    
+ [2] "subjectGroup"
+
+      Summarised subject group:
+      1 to 30
+                           
+
+ [3] "subject"  
+
+      Original subject:
+      1 to 30
+                        
+ [4] "tBodyAccMeanX"
+
+      Summarised average per subject per activity
+                     
+ [5] "tBodyAccMeanY" 
+
+      Summarised average per subject per activity
+             
+ [6] "tBodyAccMeanZ"                    
+
+      Summarised average per subject per activity
+
+ [7] "tBodyAccStdX"                     
+
+      Summarised average per subject per activity
+
+ [8] "tBodyAccStdY"                     
+
+      Summarised average per subject per activity
+
+ [9] "tBodyAccStdZ"                     
+
+      Summarised average per subject per activity
+
+[10] "tGravityAccMeanX"                 
+
+      Summarised average per subject per activity
+
+[11] "tGravityAccMeanY"                 
+
+      Summarised average per subject per activity
+
+[12] "tGravityAccMeanZ"                 
+
+      Summarised average per subject per activity
+
+[13] "tGravityAccStdX"                  
+
+      Summarised average per subject per activity
+
+[14] "tGravityAccStdY"                  
+
+      Summarised average per subject per activity
+
+[15] "tGravityAccStdZ"        
+
+      Summarised average per subject per activity
+          
+[16] "tBodyAccJerkMeanX"                
+
+      Summarised average per subject per activity
+
+[17] "tBodyAccJerkMeanY"                
+
+      Summarised average per subject per activity
+
+[18] "tBodyAccJerkMeanZ"                
+
+      Summarised average per subject per activity
+
+[19] "tBodyAccJerkStdX"                 
+
+      Summarised average per subject per activity
+
+[20] "tBodyAccJerkStdY"                 
+
+      Summarised average per subject per activity
+
+[21] "tBodyAccJerkStdZ"                 
+
+      Summarised average per subject per activity
+
+[22] "tBodyGyroMeanX"                   
+
+      Summarised average per subject per activity
+
+[23] "tBodyGyroMeanY"                   
+
+      Summarised average per subject per activity
+
+[24] "tBodyGyroMeanZ"                   
+
+      Summarised average per subject per activity
+
+[25] "tBodyGyroStdX"                    
+
+      Summarised average per subject per activity
+
+[26] "tBodyGyroStdY"                    
+
+      Summarised average per subject per activity
+
+[27] "tBodyGyroStdZ"                    
+
+      Summarised average per subject per activity
+
+[28] "tBodyGyroJerkMeanX"               
+
+      Summarised average per subject per activity
+
+[29] "tBodyGyroJerkMeanY"               
+
+      Summarised average per subject per activity
+
+[30] "tBodyGyroJerkMeanZ"               
+
+      Summarised average per subject per activity
+
+[31] "tBodyGyroJerkStdX"                
+
+      Summarised average per subject per activity
+
+[32] "tBodyGyroJerkStdY"                
+
+      Summarised average per subject per activity
+
+[33] "tBodyGyroJerkStdZ"                
+
+      Summarised average per subject per activity
+
+[34] "tBodyAccMagMean"                  
+
+      Summarised average per subject per activity
+
+[35] "tBodyAccMagStd"                   
+
+      Summarised average per subject per activity
+
+[36] "tGravityAccMagMean"               
+
+      Summarised average per subject per activity
+
+[37] "tGravityAccMagStd"                
+
+      Summarised average per subject per activity
+
+[38] "tBodyAccJerkMagMean"              
+
+      Summarised average per subject per activity
+
+[39] "tBodyAccJerkMagStd"               
+
+      Summarised average per subject per activity
+
+[40] "tBodyGyroMagMean"                 
+
+      Summarised average per subject per activity
+
+[41] "tBodyGyroMagStd"                  
+
+      Summarised average per subject per activity
+
+[42] "tBodyGyroJerkMagMean"             
+
+      Summarised average per subject per activity
+
+[43] "tBodyGyroJerkMagStd"              
+
+      Summarised average per subject per activity
+
+[44] "fBodyAccMeanX"   
+
+      Summarised average per subject per activity
+                 
+[45] "fBodyAccMeanY"                    
+
+      Summarised average per subject per activity
+
+[46] "fBodyAccMeanZ"                    
+
+      Summarised average per subject per activity
+
+[47] "fBodyAccStdX"                     
+
+      Summarised average per subject per activity
+
+[48] "fBodyAccStdY"                     
+
+      Summarised average per subject per activity
+
+[49] "fBodyAccStdZ"                     
+
+      Summarised average per subject per activity
+
+[50] "fBodyAccMeanFreqX"                
+
+      Summarised average per subject per activity
+
+[51] "fBodyAccMeanFreqY"                
+
+      Summarised average per subject per activity
+
+[52] "fBodyAccMeanFreqZ"                
+
+      Summarised average per subject per activity
+
+[53] "fBodyAccJerkMeanX"                
+
+      Summarised average per subject per activity
+
+[54] "fBodyAccJerkMeanY"                
+
+      Summarised average per subject per activity
+
+[55] "fBodyAccJerkMeanZ"                
+
+      Summarised average per subject per activity
+
+[56] "fBodyAccJerkStdX"                 
+
+      Summarised average per subject per activity
+
+[57] "fBodyAccJerkStdY"                 
+
+      Summarised average per subject per activity
+
+[58] "fBodyAccJerkStdZ"                 
+
+      Summarised average per subject per activity
+
+[59] "fBodyAccJerkMeanFreqX"            
+
+      Summarised average per subject per activity
+
+[60] "fBodyAccJerkMeanFreqY"            
+
+      Summarised average per subject per activity
+
+[61] "fBodyAccJerkMeanFreqZ"            
+
+      Summarised average per subject per activity
+
+[62] "fBodyGyroMeanX"                   
+
+      Summarised average per subject per activity
+
+[63] "fBodyGyroMeanY"                   
+
+      Summarised average per subject per activity
+
+[64] "fBodyGyroMeanZ"                   
+
+      Summarised average per subject per activity
+
+[65] "fBodyGyroStdX"                    
+
+      Summarised average per subject per activity
+
+[66] "fBodyGyroStdY"                    
+
+      Summarised average per subject per activity
+
+[67] "fBodyGyroStdZ"                    
+
+      Summarised average per subject per activity
+
+[68] "fBodyGyroMeanFreqX"               
+
+      Summarised average per subject per activity
+
+[69] "fBodyGyroMeanFreqY"               
+
+      Summarised average per subject per activity
+
+[70] "fBodyGyroMeanFreqZ"               
+
+      Summarised average per subject per activity
+
+[71] "fBodyAccMagMean"                  
+
+      Summarised average per subject per activity
+
+[72] "fBodyAccMagStd"                   
+
+      Summarised average per subject per activity
+
+[73] "fBodyAccMagMeanFreq"              
+
+      Summarised average per subject per activity
+
+[74] "fBodyBodyAccJerkMagMean"          
+
+      Summarised average per subject per activity
+
+[75] "fBodyBodyAccJerkMagStd"           
+
+      Summarised average per subject per activity
+
+[76] "fBodyBodyAccJerkMagMeanFreq"      
+
+      Summarised average per subject per activity
+
+[77] "fBodyBodyGyroMagMean"             
+
+      Summarised average per subject per activity
+
+[78] "fBodyBodyGyroMagStd"              
+
+      Summarised average per subject per activity
+
+[79] "fBodyBodyGyroMagMeanFreq"         
+
+      Summarised average per subject per activity
+
+[80] "fBodyBodyGyroJerkMagMean"         
+
+      Summarised average per subject per activity
+
+[81] "fBodyBodyGyroJerkMagStd"          
+
+      Summarised average per subject per activity
+
+[82] "fBodyBodyGyroJerkMagMeanFreq"     
+
+      Summarised average per subject per activity
+
+[83] "angletBodyAccMeangravity"         
+
+      Summarised average per subject per activity
+
+[84] "angletBodyAccJerkMeangravityMean" 
+
+      Summarised average per subject per activity
+
+[85] "angletBodyGyroMeangravityMean"    
+
+      Summarised average per subject per activity
+
+[86] "angletBodyGyroJerkMeangravityMean"
+
+      Summarised average per subject per activity
+
+[87] "angleXgravityMean"                
+
+      Summarised average per subject per activity
+
+[88] "angleYgravityMean"                
+
+      Summarised average per subject per activity
+
+[89] "angleZgravityMean"
+
+      Summarised average per subject per activity
