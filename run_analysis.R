@@ -1,5 +1,7 @@
 run_analysis <- function() {
+      
       ## Read in all dataset
+      
       X_train <- read.table("./train/X_train.txt",as.is=TRUE)
       Y_train <- read.table("./train/Y_train.txt",as.is=TRUE)
       subject_train <- read.table("./train/subject_train.txt",as.is=TRUE)
@@ -73,7 +75,7 @@ run_analysis <- function() {
       colnames(tidy_data)[1] <- "activityGroup"
       colnames(tidy_data)[2] <- "subjectGroup"
       tidy_data <- tidy_data[,1:89]
-      
+      git
       write.table(tidy_data,file ="./tidy_data.txt",row.names=FALSE)
       
 }
